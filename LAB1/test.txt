@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="vi" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, bách khoa toàn thư mở</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"vi normal","wgMonthNames":["","tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"],"wgRequestId":"6e587c91-5183-44b2-892d-95d3be8800fd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Trang_Chính","wgTitle":"Trang Chính","wgCurRevisionId":61430766,"wgRevisionId":61430766,"wgArticleId":2,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"vi","wgPageContentModel":"wikitext","wgRelevantPageName":"Trang_Chính","wgRelevantArticleId":2,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":
+!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"vi","pageLanguageDir":"ltr","pageVariantFallbacks":"vi"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Tiếng Việt","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready",
+"skins.vector.legacy.js","ext.gadget.did_you_mean","ext.gadget.ReferenceTooltips","ext.gadget.AVIM","ext.gadget.AVIM_portlet","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.wikibugs","ext.gadget.mySandbox","ext.gadget.purgetab","ext.gadget.switcher","ext.gadget.AdvancedSiteNotices","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.growthExperiments.SuggestedEditSession","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"vi"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=vi&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=vi&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=vi&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=vi&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.36"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikipedia-logo-blank.svg/1200px-Wikipedia-logo-blank.svg.png"/>
+<link rel="alternate" type="application/atom+xml" title="Nguồn cấp hình ảnh trong ngày tại Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Nguồn cấp bài viết chọn lọc Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Nguồn cấp “Ngày này năm xưa” tại Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Nguồn cấp “Bạn có biết” tại Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (vi)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//vi.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Trang_Chính rootpage-Trang_Chính skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="vi">Trang Chính</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Bách khoa toàn thư mở Wikipedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Buớc tưới chuyển hướng</a>
+		<a class="mw-jump-link" href="#p-search">Bước tới tìm kiếm</a>
+		<div id="mw-content-text" lang="vi" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r61551524">body.skin-minerva .mw-parser-output table,body.skin-minerva .mw-parser-output tr,body.skin-minerva .mw-parser-output th,body.skin-minerva .mw-parser-output td,body.skin-minerva .mw-parser-output tbody{display:block!important;width:100%!important;box-sizing:border-box}body.skin-minerva .mw-parser-output #mp-upper>tbody>tr>td{border:none!important}body.skin-minerva .mw-parser-output #mp-topbanner,body.skin-minerva .mw-parser-output #mp-lang,body.skin-minerva .mw-parser-output #mp-lang-head,body.skin-minerva .mw-parser-output #mp-lower{display:none!important}</style>
+<table id="mp-topbanner" style="width: 100%; margin-top: 2px; background: transparent;">
+<tbody><tr>
+<td style="border: 1px solid #CCCCCC; background: #ffffff; vertical-align: top;"><div style="background: white; padding: 0px; padding-left: 3em; padding-right: 3em; position: relative; overflow: hidden;">
+<div style="position: absolute; width: 100%; overflow: hidden; margin-left: -3em; margin-right: -3em; margin-bottom: -130px;">
+<div style="margin-left: 20px; margin-top: -10px; opacity: 0.35;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikipedia-logo-blank.svg/500px-Wikipedia-logo-blank.svg.png" decoding="async" width="500" height="500" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikipedia-logo-blank.svg/750px-Wikipedia-logo-blank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikipedia-logo-blank.svg/1000px-Wikipedia-logo-blank.svg.png 2x" data-file-width="200" data-file-height="200" /></div>
+</div>
+<div style="height: 130px; margin: 0px; padding: 0px; position: relative;">
+<div style="float: left; width: 40%; min-width: 250px; text-align: right; font-size: 300%; font-family: &#39;Linux Libertine&#39;, &#39;Palatino Linotype&#39;, &#39;Times New Roman&#39;, serif; line-height: 0.5em; -moz-font-feature-settings: &#39;ss05=1&#39;; -moz-font-feature-settings: &#39;ss05&#39;; -webkit-font-feature-settings: &#39;ss05&#39;; -ms-font-feature-settings: &#39;ss05&#39;; font-feature-settings: &#39;ss05&#39;;">
+<div style="font-size: 50px; line-height: 85px; vertical-align: bottom; font-variant: small-caps;"><img alt="WikipediA" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wikipedia_wordmark.svg/250px-Wikipedia_wordmark.svg.png" decoding="async" width="250" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wikipedia_wordmark.svg/375px-Wikipedia_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wikipedia_wordmark.svg/500px-Wikipedia_wordmark.svg.png 2x" data-file-width="500" data-file-height="85" /></div>
+<div style="font-style: italic; padding-right: 10px;">tiếng Việt</div>
+</div>
+<div class="plainlinks" style="float: right; width: 55%; padding: 20px 0 10px 0; font-size: 100%;">
+<p><span style="font-size: 110%; font-weight: bold;">Bạn chính là tác giả của Wikipedia!</span><br />
+Mọi người đều có thể biên tập bài ngay lập tức, chỉ cần nhớ <a href="/wiki/Wikipedia:B%E1%BB%99_quy_t%E1%BA%AFc_gi%E1%BA%A3n_l%C6%B0%E1%BB%A3c" title="Wikipedia:Bộ quy tắc giản lược">vài quy tắc</a>. Có sẵn rất nhiều trang trợ giúp như <a href="/wiki/Tr%E1%BB%A3_gi%C3%BAp:Vi%E1%BA%BFt_trang_m%E1%BB%9Bi" title="Trợ giúp:Viết trang mới">tạo bài</a>, <a href="/wiki/Tr%E1%BB%A3_gi%C3%BAp:S%E1%BB%ADa_%C4%91%E1%BB%95i" title="Trợ giúp:Sửa đổi">sửa bài</a> hay <a href="/wiki/Tr%E1%BB%A3_gi%C3%BAp:T%E1%BA%A3i_t%E1%BA%ADp_tin_l%C3%AAn" title="Trợ giúp:Tải tập tin lên">tải ảnh</a>. Bạn cũng đừng ngại <a href="/wiki/Wikipedia:C%C3%A2u_h%E1%BB%8Fi" title="Wikipedia:Câu hỏi">đặt câu hỏi</a>.<br />
+Hiện chúng ta có <a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Th%E1%BB%91ng_k%C3%AA" title="Đặc biệt:Thống kê">1.247.426</a> bài viết và <a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp" title="Đặc biệt:Đăng nhập">746.891</a> thành viên.
+</p>
+</div>
+<div style="clear: both;"></div>
+</div></div>
+<div style="border-bottom: 1px dotted #CCCCCC; clear: both;">
+<div style="float: left; width: 48%; text-align: right; margin-top: 2px;">
+<p><b>Bài viết:</b><span style="font-size: 90%"> <a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:T%C3%ACm_ki%E1%BA%BFm" title="Đặc biệt:Tìm kiếm"><span title="Tìm kiếm bài viết theo từ khóa">Tìm kiếm</span></a>&#160;•&#32;<a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%8Di_b%C3%A0i/A" title="Đặc biệt:Mọi bài/A"><span title="Tra cứu các bài viết theo vần A, B, C…">Tra cứu</span></a>&#160;•&#32;<a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Trang_m%E1%BB%9Bi" title="Đặc biệt:Trang mới"><span title="Các bài mới viết">Bài mới</span></a>&#160;•&#32;<a href="/wiki/Wikipedia:B%C3%A0n_tham_kh%E1%BA%A3o" title="Wikipedia:Bàn tham khảo"><span title="Đặt câu hỏi và nhận trả lời từ thành viên khác">Hỏi đáp</span></a>&#160;•&#32;<a href="/wiki/Wikipedia:B%C3%A0i_th%E1%BB%89nh_c%E1%BA%A7u" title="Wikipedia:Bài thỉnh cầu"><span title="Thỉnh cầu một bài viết mới">Thỉnh cầu</span></a></span>
+</p>
+</div>
+<div style="float: right; width: 48%; text-align: left; margin-top: 2px;">
+<p><b>Trợ giúp:</b><span style="font-size: 90%"> <a href="/wiki/Wikipedia:C%C3%A2u_th%C6%B0%E1%BB%9Dng_h%E1%BB%8Fi" title="Wikipedia:Câu thường hỏi"><span title="Các câu hỏi thường gặp">FAQ</span></a>&#160;•&#32;<a href="/wiki/Wikipedia:Gi%C3%BAp_s%E1%BB%AD_d%E1%BB%A5ng_Wikipedia" title="Wikipedia:Giúp sử dụng Wikipedia"><span title="Nhờ sự trợ giúp của một thành viên khác">Giúp đỡ</span></a>&#160;•&#32;<a href="/wiki/Tr%E1%BB%A3_gi%C3%BAp:S%E1%BB%ADa_%C4%91%E1%BB%95i" title="Trợ giúp:Sửa đổi"><span title="Hưỡng dẫn sửa đổi">Sửa đổi</span></a>&#160;•&#32;<a href="/wiki/Tr%E1%BB%A3_gi%C3%BAp:Ch%E1%BB%97_th%E1%BB%AD" title="Trợ giúp:Chỗ thử"><span title="Nơi thử nghiệm">Chỗ thử</span></a>&#160;•&#32;<a href="/wiki/Wikipedia:Guestbook_for_non-Vietnamese_speakers" title="Wikipedia:Guestbook for non-Vietnamese speakers"><span title="Guestbook for non-Vietnamese speakers — Dành cho những người không sử dụng được tiếng Việt">Guestbook</span></a>&#160;•&#32;<a href="/wiki/Wikipedia:Th%C6%B0_vi%E1%BB%87n_Wikipedia" title="Wikipedia:Thư viện Wikipedia"><span title="Thư viện Wikipedia">Thư viện Wikipedia</span></a></span>
+</p>
+</div>
+</div></td></tr></tbody></table>
+<table id="mp-upper" style="margin-top: 2px; background: none">
+<tbody><tr>
+<td id="mp-left" style="width: 50%; border: 1px solid #d4d4d4; background: #ffffff; vertical-align: top; color: #000000;">
+<table style="padding: 2px; width: 100%; vertical-align: top; background: #ffffff">
+<tbody><tr>
+<th id="mp-tfa-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/40px-Emblem-star.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/60px-Emblem-star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/80px-Emblem-star.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #cedff2; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #5897dd; padding: 0;"><div id="mp-tfa-h2" style="margin-left: 50px;"><a href="/wiki/Wikipedia:B%C3%A0i_vi%E1%BA%BFt_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Wikipedia:Bài viết chọn lọc"><span style="color: #000000;">Bài viết chọn lọc</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-tfa" style="color: #000000; font-size: 100%; padding: 6px;"><div class="show-image" style="float: right; margin-left: 1em; margin-top: 0.8em; margin-bottom: 0.4em"> <div class="floatright"><a href="/wiki/T%E1%BA%ADp_tin:MissingNo.png" class="image" title="Một dạng của Ketsuban."><img alt="Một dạng của Ketsuban." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/MissingNo.png/81px-MissingNo.png" decoding="async" width="81" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/6/62/MissingNo.png 1.5x" data-file-width="96" data-file-height="224" /></a></div>
+</div>
+<p><b><a href="/wiki/Ketsuban" title="Ketsuban">Ketsuban</a></b>, được biết đến với tên tiếng Anh là <b>MissingNo.</b>, viết tắt của Missing Number, là một <a href="/wiki/Danh_s%C3%A1ch_Pok%C3%A9mon" title="Danh sách Pokémon">loài Pokémon</a> không chính thức xuất hiện trong các <a href="/wiki/Video_game" title="Video game">video game</a> <a href="/wiki/Pok%C3%A9mon_Red_v%C3%A0_Blue" title="Pokémon Red và Blue"><i>Pokémon Red</i> và <i>Blue</i></a> và <i><a href="/wiki/Pok%C3%A9mon_Yellow" title="Pokémon Yellow">Yellow</a></i>. Loài Pokémon này xuất hiện trong trò chơi là kết quả của việc lập trình một số sự kiện, đặc biệt trong việc xử lý các ngoại lệ (lỗi thực thi) xuất hiện trong phần mềm. Người chơi có thể bắt gặp Ketsuban thông qua một sự cố khi hệ thống trò chơi cố gắng truy vấn dữ liệu về các Pokémon không tồn tại. Shigeki Morimoto, một trong những lập trình viên tham gia vào dự án cho biết, ban đầu các <a href="/wiki/Video_game" title="Video game">video game</a> Pokémon khi mới phát triển có đến 190 Pokémon, nhưng sau đó rút còn 151 loài chính thức trong phiên bản cuối cùng.
+</p><p>Ketsuban thường xuất hiện dưới dạng một khối đồ họa lộn xộn giống như ký tự "d" hoặc "L" bị đảo ngược và xuất hiện trong Pokédex (kho Pokémon) của người chơi với mã số 000. Khi gặp Ketsuban, người chơi sẽ thấy lỗi đồ họa bất thường và khiến số lượng vật phẩm thứ sáu của kho vật phẩm tăng lên thêm 128. Ketsuban được nhà phát hành <a href="/wiki/Nintendo" title="Nintendo">Nintendo</a> ghi nhận lần đầu tiên trong số phát hành tháng 5 năm 1999 của tạp chí <i>Nintendo Power</i>. Hãng không khuyến khích người chơi nỗ lực "bắt" Ketsuban, nhưng bất chấp cảnh báo chính thức, quy trình chiến đấu và bắt Ketsuban vẫn được in trên một số tạp chí nhằm hướng dẫn người chơi cách thức để đạt được mục đích này. Website chuyên đánh giá trò chơi điện tử <a href="/wiki/IGN" title="IGN">IGN</a> ghi nhận sự tồn tại của Ketsuban trong <i>Pokémon Red</i> và <i>Blue</i> là một trong những lỗi kỹ thuật video game nổi tiếng nhất. Người hâm mộ của trò chơi đã cố gắng hợp thức hóa Ketsuban, biến nó trở thành một phần kinh điển trong trò chơi. Không những thế, các nhà xã hội học cũng bắt tay vào nghiên cứu tác động của Ketsuban đối với người chơi nói riêng và văn hóa chơi trò chơi đại chúng nói chung. (<b><a href="/wiki/Ketsuban" title="Ketsuban">xem&#160;tiếp…</a></b>)
+</p><p>Mới chọn: <a href="/wiki/Tr%E1%BA%ADn_Caen_(1346)" title="Trận Caen (1346)">Trận Caen (1346)</a>&#160;•&#32;<a href="/wiki/Emmanuel_Nguy%E1%BB%85n_H%E1%BB%93ng_S%C6%A1n" title="Emmanuel Nguyễn Hồng Sơn">Emmanuel Nguyễn Hồng Sơn</a>&#160;•&#32;<a href="/wiki/Nancy_Drew" title="Nancy Drew">Nancy Drew</a>
+</p>
+</td></tr>
+<tr>
+<td style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;"><div class="noprint"><b><a href="/wiki/Wikipedia:B%C3%A0i_vi%E1%BA%BFt_ch%E1%BB%8Dn_l%E1%BB%8Dc/2020" title="Wikipedia:Bài viết chọn lọc/2020">Lưu trữ</a></b> • <b><a href="/wiki/Wikipedia:B%C3%A0i_vi%E1%BA%BFt_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Wikipedia:Bài viết chọn lọc">Thêm bài viết chọn lọc</a></b> • <b><a href="/wiki/Wikipedia:%E1%BB%A8ng_c%E1%BB%AD_vi%C3%AAn_b%C3%A0i_vi%E1%BA%BFt_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Wikipedia:Ứng cử viên bài viết chọn lọc">Ứng cử viên</a></b></div>
+</td></tr>
+<tr>
+<th id="mp-tfp-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Records.svg/40px-Records.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Records.svg/60px-Records.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Records.svg/80px-Records.svg.png 2x" data-file-width="32" data-file-height="32" /></div><div style="margin: 0; background: #ccfcf9; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #4ccbc3; padding: 0;"><div id="mp-tfp-h2" style="margin-left: 50px;"><a href="/wiki/Wikipedia:H%C3%ACnh_%E1%BA%A3nh_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Wikipedia:Hình ảnh chọn lọc"><span style="color: #000000;">Hình ảnh chọn lọc</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-tfp" style="color: #000000; font-size: 100%; padding: 6px;"><div id="mf-tfp" title="Hình ảnh chọn lọc"><div align="center"><center style="padding:6px;"><div class="center"><div class="floatnone"><a href="/wiki/T%E1%BA%ADp_tin:M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg" class="image"><img alt="Mã Pí Lèng by minhphuc 99kdd.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg/340px-M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg" decoding="async" width="340" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg/510px-M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg/680px-M%C3%A3_P%C3%AD_L%C3%A8ng_by_minhphuc_99kdd.jpg 2x" data-file-width="13812" data-file-height="5384" /></a></div></div></center>
+<center style="font-size: 90%;">Thắng cảnh <b><a href="/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng" title="Đèo Mã Pí Lèng">đèo Mã Pí Lèng</a></b> tại <a href="/wiki/M%C3%A8o_V%E1%BA%A1c" title="Mèo Vạc">Mèo Vạc</a>, <a href="/wiki/H%C3%A0_Giang" title="Hà Giang">Hà Giang</a>, được chụp từ vị trí ở ngay phía trên hẻm núi Tu Sản và con <a href="/wiki/S%C3%B4ng_Nho_Qu%E1%BA%BF" title="Sông Nho Quế">sông Nho Quế</a>.
+<p><small>Ảnh: <a href="//www.flickr.com/people/36755450@N05/" class="extiw" title="flickruser:36755450@N05/">Minh Phúc</a>
+</small></p><small>
+</small></center></div>
+</div></td></tr>
+<tr>
+<td style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;"><div class="noprint"><b><a href="/wiki/Wikipedia:H%C3%ACnh_%E1%BA%A3nh_ch%E1%BB%8Dn_l%E1%BB%8Dc/2020/06" title="Wikipedia:Hình ảnh chọn lọc/2020/06">Lưu trữ</a></b> • <b><a href="/wiki/Wikipedia:H%C3%ACnh_%E1%BA%A3nh_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Wikipedia:Hình ảnh chọn lọc">Thêm hình ảnh chọn lọc</a></b> • <b><a href="/wiki/Wikipedia:H%C3%ACnh_%E1%BA%A3nh_ch%E1%BB%8Dn_l%E1%BB%8Dc/C%E1%BA%ADp_nh%E1%BA%ADt" title="Wikipedia:Hình ảnh chọn lọc/Cập nhật">Cập nhật</a></b></div>
+
+</td></tr>
+<tr>
+<th id="mp-lang-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Preferences-desktop-locale-2.svg/40px-Preferences-desktop-locale-2.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Preferences-desktop-locale-2.svg/60px-Preferences-desktop-locale-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Preferences-desktop-locale-2.svg/80px-Preferences-desktop-locale-2.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #c7ec9f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #32cd32; padding: 0;"><div id="mp-lang-h2" style="margin-left: 50px;"><a href="/wiki/Wikipedia:Phi%C3%AAn_b%E1%BA%A3n_ng%C3%B4n_ng%E1%BB%AF" title="Wikipedia:Phiên bản ngôn ngữ"><span style="color: #000000;">Wikipedia ngôn ngữ khác</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-lang" style="color: #000000; font-size: 100%; padding: 6px;">
+<table style="background-color: #FFFFFF;">
+<tbody><tr>
+<td style="padding-top: 8px;"><span style="font-size: 105%;"><b>Các phiên bản ngôn ngữ có trên 1.000.000 bài:</b></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" class="extiw" title="ar:الصفحة الرئيسية">Ả Rập (<span lang="ar" title="Văn bản tiếng Ả Rập">‮العربية‬</span>)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page" class="extiw" title="en:Main Page">Anh (<i><span lang="en" title="Văn bản tiếng Anh">English</span></i>)</a></li>
+<li><a href="https://pl.wikipedia.org/wiki/Strona_g%C5%82%C3%B3wna" class="extiw" title="pl:Strona główna">Ba Lan (<i><span lang="pl" title="Văn bản tiếng Ba Lan">Polski</span></i>)</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" class="extiw" title="pt:Wikipédia:Página principal">Bồ Đào Nha (<i><span lang="pt" title="Văn bản tiếng Bồ Đào Nha">Português</span></i>)</a></li>
+<li><a href="https://ceb.wikipedia.org/wiki/Unang_Panid" class="extiw" title="ceb:Unang Panid">Cebu (<i><span lang="ceb" title="Văn bản tiếng Cebuano">Cebuano</span></i>)</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Hauptseite" class="extiw" title="de:Hauptseite">Đức (<i><span lang="de" title="Văn bản tiếng Đức">Deutsch</span></i>)</a></li>
+<li><a href="https://nl.wikipedia.org/wiki/Hoofdpagina" class="extiw" title="nl:Hoofdpagina">Hà Lan (<i><span lang="nl" title="Văn bản tiếng Hà Lan">Nederlands</span></i>)</a></li>
+<li><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" class="extiw" title="ru:Базовая статья">Nga (<span lang="ru" title="Văn bản tiếng Nga">Русский</span>)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="ja:メインページ">Nhật (<span lang="ja" title="Văn bản tiếng Nhật">日本語</span>)</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="extiw" title="fr:Wikipédia:Accueil principal">Pháp (<i><span lang="fr" title="Văn bản tiếng Pháp">Français</span></i>)</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" class="extiw" title="es:Wikipedia:Portada">Tây Ban Nha (<i><span lang="es" title="Văn bản tiếng Tây Ban Nha">Español</span></i>)</a></li>
+<li><a href="https://sv.wikipedia.org/wiki/Portal:Huvudsida" class="extiw" title="sv:Portal:Huvudsida">Thụy Điển (<i><span lang="sv" title="Văn bản tiếng Thụy Điển">Svenska</span></i>)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="extiw" title="zh:Wikipedia:首页">Trung (<span lang="zh" title="Văn bản tiếng Trung Quốc">中文</span>)</a></li>
+<li><b>Việt</b></li>
+<li><a href="https://war.wikipedia.org/wiki/Syahan_nga_Pakli" class="extiw" title="war:Syahan nga Pakli">Waray (<i><span lang="war" title="Văn bản tiếng Waray">Winaray</span></i>)</a></li>
+<li><a href="https://it.wikipedia.org/wiki/Pagina_principale" class="extiw" title="it:Pagina principale">Ý (<i><span lang="it" title="Văn bản tiếng Ý">Italiano</span></i>)</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="border-top: 1px dotted #CCCCCC; padding-top: 8px;"><span style="font-size: 105%;"><b>Các phiên bản ngôn ngữ có trên 500.000 bài:</b></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DB%8C_%D8%A7%D8%B5%D9%84%DB%8C" class="extiw" title="fa:صفحه‌ی اصلی">Ba Tư (<span lang="fa" title="Văn bản tiếng Ba Tư">فارسی</span>)</a></li>
+<li><a href="https://ca.wikipedia.org/wiki/Portada" class="extiw" title="ca:Portada">Catalunya (<i><span lang="ca" title="Văn bản tiếng Catalunya">Català</span></i>)</a></li>
+<li><a href="https://id.wikipedia.org/wiki/Halaman_Utama" class="extiw" title="id:Halaman Utama">Indonesia (<i><span lang="id" title="Văn bản tiếng Indonesia">Bahasa Indonesia</span></i>)</a></li>
+<li><a href="/wiki/Ti%E1%BA%BFng_Na_Uy" title="Tiếng Na Uy">Na Uy</a>
+<ul><li><a href="https://no.wikipedia.org/wiki/Hovedside" class="extiw" title="no:Hovedside"><i><span lang="nb" title="Văn bản tiếng Bokmål">Bokmål</span></i></a></li></ul></li>
+<li><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0" class="extiw" title="sr:Главна страна">Serbia (<span lang="sr" title="Văn bản tiếng Serbia">Српски&#160;/ Srpski</span>)</a></li>
+<li><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F" class="extiw" title="uk:Головна стаття">Ukraina (<span lang="uk" title="Văn bản tiếng Ukraina">Українська</span>)</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="border-top: 1px dotted #CCCCCC; padding-top: 8px;"><span style="font-size: 105%;"><b>Các phiên bản ngôn ngữ có trên 100.000 bài:</b></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="https://simple.wikipedia.org/wiki/Main_Page" class="extiw" title="simple:Main Page">Anh đơn giản (<i><span lang="en" title="Văn bản tiếng Anh">Simple English</span></i>)</a></li>
+<li><a href="https://hy.wikipedia.org/wiki/%D4%B3%D5%AC%D5%AD%D5%A1%D5%BE%D5%B8%D6%80_%D5%A7%D5%BB" class="extiw" title="hy:Գլխավոր էջ">Armenia (<span lang="hy" title="Văn bản tiếng Armenia">Հայերեն</span>)</a></li>
+<li><a href="https://az.wikipedia.org/wiki/Ana_S%C9%99hif%C9%99" class="extiw" title="az:Ana Səhifə">Azerbaijan (<span lang="az" title="Văn bản tiếng Azerbaijan">Azərbaycanca</span>)</a></li>
+<li><a href="https://eu.wikipedia.org/wiki/Azala" class="extiw" title="eu:Azala">Basque (<i><span lang="eu" title="Văn bản tiếng Basque">Euskara</span></i>)</a></li>
+<li><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0" class="extiw" title="be:Галоўная старонка">Belarus (<span lang="be" title="Văn bản tiếng Belarus">Беларуская</span>)</a></li>
+<li><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="extiw" title="bg:Начална страница">Bungary (<span lang="bg" title="Văn bản tiếng Bulgaria">Български</span>)</a></li>
+<li><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8C%D1%80%D1%82%D0%B0_%D0%B0%D0%B3%D3%80%D0%BE" class="extiw" title="ce:Коьрта агӀо">Chechnya (<span lang="ce" title="Văn bản tiếng Chechnya">Нохчийн</span>)</a></li>
+<li><a href="https://hr.wikipedia.org/wiki/Glavna_stranica" class="extiw" title="hr:Glavna stranica">Croatia (<i><span lang="hr" title="Văn bản tiếng Croatia">Hrvatski</span></i>)</a></li>
+<li><a href="https://da.wikipedia.org/wiki/Forside" class="extiw" title="da:Forside">Đan Mạch (<i><span lang="da" title="Văn bản tiếng Đan Mạch">Dansk</span></i>)</a></li>
+<li><a href="https://et.wikipedia.org/wiki/Esileht" class="extiw" title="et:Esileht">Estonia (<i><span lang="et" title="Văn bản tiếng Estonia">Eesti</span></i>)</a></li>
+<li><a href="https://gl.wikipedia.org/wiki/Portada" class="extiw" title="gl:Portada">Galicia (<i><span lang="gl" title="Văn bản tiếng Galicia">Galego</span></i>)</a></li>
+<li><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98_%E1%83%92%E1%83%95%E1%83%94%E1%83%A0%E1%83%93%E1%83%98" class="extiw" title="ka:მთავარი გვერდი">Gruzia (<span lang="ka" title="Văn bản tiếng Gruzia">ქართული</span>)</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" class="extiw" title="ko:위키백과:대문">Hàn (<span lang="ko" title="Văn bản tiếng Triều Tiên">한국어</span>)</a></li>
+<li><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99" class="extiw" title="he:עמוד ראשי">Hebrew (<span lang="he" title="Văn bản tiếng Hebrew">עברית</span>)</a></li>
+<li><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" class="extiw" title="hi:मुख्य पृष्ठ">Hindi (<span lang="hi" title="Văn bản tiếng Hindi">हिन्दी</span>)</a></li>
+<li><a href="https://hu.wikipedia.org/wiki/Kezd%C5%91lap" class="extiw" title="hu:Kezdőlap">Hungary (<i><span lang="hu" title="Văn bản tiếng Hungary">Magyar</span></i>)</a></li>
+<li><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%8D%CE%BB%CE%B7:%CE%9A%CF%8D%CF%81%CE%B9%CE%B1" class="extiw" title="el:Πύλη:Κύρια">Hy Lạp (<span lang="el" title="Văn bản tiếng Hy Lạp">Ελληνικά</span>)</a></li>
+<li><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" class="extiw" title="kk:Басты бет">Kazakh (<span lang="kk" title="Văn bản tiếng Kazakh">Қазақша&#160;/ Qazaqşa&#160;/ <bdi dir="rtl">قازاقشا</bdi></span>)</a></li>
+<li><a href="https://la.wikipedia.org/wiki/Vicipaedia:Pagina_prima" class="extiw" title="la:Vicipaedia:Pagina prima">Latinh (<i><span lang="la" title="Văn bản tiếng Latinh">Latina</span></i>)</a></li>
+<li><a href="https://lt.wikipedia.org/wiki/Pagrindinis_puslapis" class="extiw" title="lt:Pagrindinis puslapis">Litva (<i><span lang="lt" title="Văn bản tiếng Litva">Lietuvių</span></i>)</a></li>
+<li><a href="https://ms.wikipedia.org/wiki/Laman_Utama" class="extiw" title="ms:Laman Utama">Mã Lai (<i><span lang="ms" title="Văn bản tiếng Mã Lai">Bahasa Melayu</span></i>)</a></li>
+<li><a href="https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh" class="extiw" title="zh-min-nan:Thâu-ia̍h">Mân Nam (<i><span lang="nan" title="Văn bản tiếng Mân Nam">Bân-lâm-gú</span></i>)</a></li>
+<li><a href="https://min.wikipedia.org/wiki/Laman_Utamo" class="extiw" title="min:Laman Utamo"><i><span lang="min" title="Văn bản tiếng Minangkabau">Minangkabau</span></i></a></li>
+<li><a href="/wiki/Ti%E1%BA%BFng_Na_Uy" title="Tiếng Na Uy">Na Uy</a>
+<ul><li><a href="https://nn.wikipedia.org/wiki/Hovudside" class="extiw" title="nn:Hovudside"><i><span lang="nn" title="Văn bản tiếng Nynorsk">Nynorsk</span></i></a></li></ul></li>
+<li><a href="https://fi.wikipedia.org/wiki/Wikipedia:Etusivu" class="extiw" title="fi:Wikipedia:Etusivu">Phần Lan (<i><span lang="fi" title="Văn bản tiếng Phần Lan">Suomi</span></i>)</a></li>
+<li><a href="https://eo.wikipedia.org/wiki/Vikipedio:%C4%88efpa%C4%9Do" class="extiw" title="eo:Vikipedio:Ĉefpaĝo">Quốc tế ngữ (<i><span lang="eo" title="Văn bản tiếng Quốc tế ngữ">Esperanto</span></i>)</a></li>
+<li><a href="https://ro.wikipedia.org/wiki/Pagina_principal%C4%83" class="extiw" title="ro:Pagina principală">România (<i><span lang="ro" title="Văn bản tiếng Romania">Română</span></i>)</a></li>
+<li><a href="https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana" class="extiw" title="cs:Hlavní strana">Séc (<i><span lang="cs" title="Văn bản tiếng Séc">Česky</span></i>)</a></li>
+<li><a href="https://sh.wikipedia.org/wiki/Glavna_stranica_/_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="extiw" title="sh:Glavna stranica / Главна страница">Serbia-Croatia (<span lang="sh" title="Văn bản tiếng Serbia-Croatia">Srpskohrvatski&#160;/ Српскохрватски</span>)</a></li>
+<li><a href="https://sk.wikipedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" class="extiw" title="sk:Hlavná stránka">Slovak (<i><span lang="sk" title="Văn bản tiếng Slovak">Slovenčina</span></i>)</a></li>
+<li><a href="https://sl.wikipedia.org/wiki/Glavna_stran" class="extiw" title="sl:Glavna stran">Slovenia (<i><span lang="sl" title="Văn bản tiếng Slovenia">Slovenščina</span></i>)</a></li>
+<li><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" class="extiw" title="ta:முதற் பக்கம்">Tamil (<span lang="ta" title="Văn bản tiếng Tamil">தமிழ்</span>)</a></li>
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2" class="extiw" title="th:ภาษาไทย">Thái (<span lang="th" title="Văn bản tiếng Thái">ไทย</span>)</a></li>
+<li><a href="https://tr.wikipedia.org/wiki/Ana_Sayfa" class="extiw" title="tr:Ana Sayfa">Thổ Nhĩ Kỳ (<i><span lang="tr" title="Văn bản tiếng Thổ Nhĩ Kỳ">Türkçe</span></i>)</a></li>
+<li><a href="https://ur.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%DB%82_%D8%A7%D9%88%D9%84" class="extiw" title="ur:صفحۂ اول">Urdu (<span lang="ur" title="Văn bản tiếng Urdu">اردو</span>)</a></li>
+<li><a href="https://uz.wikipedia.org/wiki/Bosh_Sahifa" class="extiw" title="uz:Bosh Sahifa">Uzbek (<span lang="uz" title="Văn bản tiếng Uzbek">Oʻzbekcha&#160;/ Ўзбекча</span>)</a></li>
+<li><a href="https://vo.wikipedia.org/wiki/Cifapad" class="extiw" title="vo:Cifapad"><i><span lang="vo" title="Văn bản tiếng Volapük">Volapük</span></i></a></li>
+<li><a href="https://cy.wikipedia.org/wiki/Hafan" class="extiw" title="cy:Hafan">Wales (<i><span lang="cy" title="Văn bản tiếng Wales">Cymraeg</span></i>)</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;"><div class="noprint"><b><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/Table/vi" class="extiw" title="m:List of Wikipedias/Table/vi">Xem tất cả</a></b></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td>
+<td id="mp-right" style="margin-top: 2px; background: none">
+</td>
+<td style="width: 50%; border: 1px solid #d4d4d4; background: #FFFFFF; vertical-align: top;">
+<table style="width: 100%; padding: 2px; vertical-align: top; background: #FFFFFF">
+<tbody><tr>
+<th id="mp-dyk-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Help-browser-red.svg/38px-Help-browser-red.svg.png" decoding="async" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Help-browser-red.svg/57px-Help-browser-red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Help-browser-red.svg/76px-Help-browser-red.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #f2c3c4; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e05f62; padding: 0;"><div id="mp-dyk-h2" style="margin-left: 50px;"><a href="/wiki/Wikipedia:B%E1%BA%A1n_c%C3%B3_bi%E1%BA%BFt" title="Wikipedia:Bạn có biết"><span style="color: #000000;">Bạn có biết…</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-dyk" style="color: #000000; font-size: 100%; padding: 6px;"><div id="mf-dyk" title="Bạn có biết"><div class="show-image" style="float: right; margin-left: 1em; margin-top: 0.8em; margin-bottom: 0.4em">  <div class="floatnone"><a href="/wiki/T%E1%BA%ADp_tin:An_Bang_Village_Cemetery_02.jpg" class="image" title="Nghĩa trang An Bằng"><img alt="Nghĩa trang An Bằng" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/An_Bang_Village_Cemetery_02.jpg/100px-An_Bang_Village_Cemetery_02.jpg" decoding="async" width="100" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/An_Bang_Village_Cemetery_02.jpg/150px-An_Bang_Village_Cemetery_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/An_Bang_Village_Cemetery_02.jpg/200px-An_Bang_Village_Cemetery_02.jpg 2x" data-file-width="1941" data-file-height="2109" /></a></div>
+</div>
+<ul><li>…<b><a href="/wiki/Ngh%C4%A9a_trang_An_B%E1%BA%B1ng" title="Nghĩa trang An Bằng">nghĩa trang làng An Bằng</a></b> tại xã Vinh An, huyện <a href="/wiki/Ph%C3%BA_Vang" title="Phú Vang">Phú Vang</a>, tỉnh <a href="/wiki/Th%E1%BB%ABa_Thi%C3%AAn_-_Hu%E1%BA%BF" title="Thừa Thiên - Huế">Thừa Thiên - Huế</a> được mệnh danh là nơi "người chết nuôi người sống"?</li>
+<li>…không chỉ là vua, <b><a href="/wiki/Henrique_c%E1%BB%A7a_B%E1%BB%93_%C4%90%C3%A0o_Nha" title="Henrique của Bồ Đào Nha">Henrique của Bồ Đào Nha</a></b> còn là <a href="/wiki/H%E1%BB%93ng_y" title="Hồng y">hồng y</a> của <a href="/wiki/Gi%C3%A1o_h%E1%BB%99i_C%C3%B4ng_gi%C3%A1o_R%C3%B4ma" title="Giáo hội Công giáo Rôma">Giáo hội Công giáo Rôma</a>?</li>
+<li>…khái niệm <b><a href="/wiki/Qu%E1%BB%B9_%C4%91%E1%BA%A1o_%C4%91%E1%BB%8Ba_%C4%91%E1%BB%93ng_b%E1%BB%99" title="Quỹ đạo địa đồng bộ">quỹ đạo địa đồng bộ</a></b> đã được nhà văn <a href="/wiki/Khoa_h%E1%BB%8Dc_vi%E1%BB%85n_t%C6%B0%E1%BB%9Fng" title="Khoa học viễn tưởng">khoa học viễn tưởng</a> <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">Arthur C. Clarke</a> làm phổ biến và miêu tả chi tiết gần 20 năm trước khi thực hiện được?</li>
+<li>…các nhà khoa học không chắc chắn loài ong <i><b><a href="/wiki/Osmia_calaminthae" title="Osmia calaminthae">Osmia calaminthae</a></b></i> có còn tồn tại không cho đến khi nó được quan sát lại vào tháng 3 năm 2020?</li>
+<li>…<b><a href="/wiki/Eva_Asderaki" title="Eva Asderaki">Eva Asderaki</a></b> là phụ nữ đầu tiên làm trọng tài trong một trận chung kết Đơn nam <a href="/wiki/Gi%E1%BA%A3i_qu%E1%BA%A7n_v%E1%BB%A3t_M%E1%BB%B9_M%E1%BB%9F_r%E1%BB%99ng" title="Giải quần vợt Mỹ Mở rộng">US Open</a>?</li></ul>
+</div></td></tr>
+<tr>
+<td style="padding-left: 30px; text-align: left; padding-bottom: 6px;"><i><font style="color: #AAAAAA">Từ những <font style="color: #AAAAAA"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Trang_m%E1%BB%9Bi" title="Đặc biệt:Trang mới">bài viết mới</a></font> của Wikipedia</font></i>
+</td></tr>
+<tr>
+<td style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;" class="noprint plainlinks"><div class="noprint"><b><a href="/wiki/Wikipedia:B%E1%BA%A1n_c%C3%B3_bi%E1%BA%BFt/2020" title="Wikipedia:Bạn có biết/2020">Lưu trữ</a></b> • <b><a href="/wiki/Wikipedia:Vi%E1%BA%BFt_b%C3%A0i_m%E1%BB%9Bi" class="mw-redirect" title="Wikipedia:Viết bài mới">Bắt đầu viết bài mới</a></b> • <a href="/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn_Wikipedia:B%E1%BA%A1n_c%C3%B3_bi%E1%BA%BFt/2020/Tu%E1%BA%A7n_25" title="Thảo luận Wikipedia:Bạn có biết/2020/Tuần 25"><span title="Mời bạn đề cử cho tuần tới"><b>Cập nhật</b></span></a>
+</div>
+</td></tr>
+<tr>
+<th id="mp-itn-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Globe-with-clock.svg/40px-Globe-with-clock.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Globe-with-clock.svg/60px-Globe-with-clock.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Globe-with-clock.svg/80px-Globe-with-clock.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #ffd6c0; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e68d5d; padding: 0;"><div id="mp-itn-h2" style="margin-left: 50px;"><a href="/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:Th%E1%BB%9Di_s%E1%BB%B1" title="Chủ đề:Thời sự"><span style="color: #000000;">Tin tức</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-itn" style="color: #000000; font-size: 100%; padding: 6px;"><div style="margin: 3px 2px 6px 2px; padding: 6px 10px; text-align:center; background:#f8f9fa; border:1px solid #c8ccd1;"><b><a href="/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19" title="Đại dịch COVID-19">Đại dịch COVID-19</a></b><br /><span style="font-size:90%;"><div class="hlist hlist-separated"><ul><li><a href="/wiki/B%E1%BB%87nh_virus_corona_2019" title="Bệnh virus corona 2019">Bệnh</a></li><li><a href="/wiki/SARS-CoV-2" title="SARS-CoV-2">Virus</a></li><li><a href="/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19#Phòng_ngừa_và_điều_trị" title="Đại dịch COVID-19">Phòng ngừa</a></li><li><a href="/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_theo_qu%E1%BB%91c_gia_v%C3%A0_v%C3%B9ng_l%C3%A3nh_th%E1%BB%95" title="Đại dịch COVID-19 theo quốc gia và vùng lãnh thổ">Theo khu vực</a> (<a href="/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam" title="Đại dịch COVID-19 tại Việt Nam">Việt Nam</a>)</li><li><a href="/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:B%E1%BB%87nh_virus_corona_2019" title="Chủ đề:Bệnh virus corona 2019">Chủ đề</a></li></ul></div></span></div>
+<div style="float:right;margin-left:0.5em;" id="mp-itn-img">
+<div class="thumbinner mp-thumb" style="background:none; border:none; max-width:150px;">
+<a href="/wiki/T%E1%BA%ADp_tin:Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg" class="image" title="Tràn dầu gần Norilsk"><img alt="Tràn dầu gần Norilsk" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg/150px-Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg" decoding="async" width="150" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg/225px-Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg/300px-Norilsk_oil_spill_may_31_2020_sentinel-2_esa.jpg 2x" data-file-width="1200" data-file-height="675" /></a><div class="thumbcaption" style="padding:0.25em 0 0 0; word-wrap:break-word;">Tràn dầu gần Norilsk</div></div>
+</div>
+<ul><li><a href="/wiki/T%E1%BB%95ng_th%E1%BB%91ng_Nga" title="Tổng thống Nga">Tổng thống Nga</a> <a href="/wiki/Vladimir_Putin" class="mw-redirect" title="Vladimir Putin">Vladimir Putin</a> tuyên bố tình trạng khẩn cấp sau <b><a href="/wiki/S%E1%BB%B1_c%E1%BB%91_tr%C3%A0n_d%E1%BA%A7u_Norilsk_2020" title="Sự cố tràn dầu Norilsk 2020">một vụ tràn dầu</a></b> (<i>hình</i>) gần <a href="/wiki/Norilsk" title="Norilsk">Norilsk</a>.</li>
+<li><a href="/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%91%E1%BA%A1i_bi%E1%BB%83u_Nh%C3%A2n_d%C3%A2n_to%C3%A0n_qu%E1%BB%91c_(Trung_Qu%E1%BB%91c)" title="Đại hội đại biểu Nhân dân toàn quốc (Trung Quốc)">Quốc hội Trung Quốc</a> thông qua <b><a href="/wiki/Lu%E1%BA%ADt_an_ninh_qu%E1%BB%91c_gia_H%E1%BB%93ng_K%C3%B4ng" title="Luật an ninh quốc gia Hồng Kông">Luật an ninh quốc gia Hồng Kông</a></b> nhằm áp đặt thêm nhiều sự kiểm soát đối với vùng lãnh thổ này.</li>
+<li>Nhiều cuộc <b><a href="/wiki/Bi%E1%BB%83u_t%C3%ACnh_George_Floyd" title="Biểu tình George Floyd">biểu tình và bạo loạn</a></b> diễn ra khắp <a href="/wiki/Hoa_K%E1%BB%B3" title="Hoa Kỳ">Hoa Kỳ</a> sau <b><a href="/wiki/C%C3%A1i_ch%E1%BA%BFt_c%E1%BB%A7a_George_Floyd" title="Cái chết của George Floyd">cái chết của George Floyd</a></b> trong lúc bị cảnh sát bắt ở <a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a>.</li>
+<li>Một chiếc máy bay <a href="/wiki/Airbus_A320" title="Airbus A320">Airbus A320</a> của hãng hàng không <a href="/wiki/Pakistan_International_Airlines" title="Pakistan International Airlines">Pakistan International Airlines</a> <a href="/wiki/Chuy%E1%BA%BFn_bay_8303_c%E1%BB%A7a_Pakistan_International_Airlines" title="Chuyến bay 8303 của Pakistan International Airlines"><b>gặp nạn</b></a> gần thành phố <a href="/wiki/Karachi" title="Karachi">Karachi</a>, khiến nhiều người tử vong.</li></ul>
+</td></tr>
+<tr>
+<td class="noprint plainlinks" style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;"><a class="external text" href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:Tin_t%E1%BB%A9c"><span title="Mời bạn cập nhật tin tức mới!"><b>Cập nhật</b></span></a>
+</td></tr>
+<tr>
+<th id="mp-otd-head"><div style="position: absolute; margin-top: -8px; margin-left: 4px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Office-calendar-modified.svg/45px-Office-calendar-modified.svg.png" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Office-calendar-modified.svg/68px-Office-calendar-modified.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Office-calendar-modified.svg/90px-Office-calendar-modified.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #f9f09f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #daa520; padding: 0;"><div id="mp-otd-h2" style="margin-left: 50px;"><a href="/wiki/Wikipedia:Ng%C3%A0y_n%C3%A0y_n%C4%83m_x%C6%B0a" title="Wikipedia:Ngày này năm xưa"><span style="color: #000000;">Ngày này năm xưa</span></a></div></div>
+</th></tr>
+<tr>
+<td id="mp-otd" style="color: #000000; font-size: 100%; padding: 6px;"><div id="mf-otd" title="Ngày này năm xưa"><div class="show-image" style="float: right; margin-left: 1em; margin-top: 0.8em; margin-bottom: 0.4em"> <div class="floatnone"><a href="/wiki/Kim_Dae-jung." title="Kim Dae-jung."><img alt="Kim Dae-jung (Cropped).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kim_Dae-jung_%28Cropped%29.png/72px-Kim_Dae-jung_%28Cropped%29.png" decoding="async" width="72" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kim_Dae-jung_%28Cropped%29.png/108px-Kim_Dae-jung_%28Cropped%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kim_Dae-jung_%28Cropped%29.png/144px-Kim_Dae-jung_%28Cropped%29.png 2x" data-file-width="201" data-file-height="279" /></a></div>
+</div>
+<p><b><a href="/wiki/13_th%C3%A1ng_6" title="13 tháng 6">13 tháng 6</a></b>:
+</p>
+<ul><li><a href="/wiki/532" title="532">532</a> – Sau khi đánh bại họ <a href="/wiki/Nh%C4%A9_Chu_Vinh" title="Nhĩ Chu Vinh">Nhĩ Chu</a>, <b><a href="/wiki/Cao_Hoan" title="Cao Hoan">Cao Hoan</a></b> đưa Nguyên Tu lên làm hoàng đế của <a href="/wiki/B%E1%BA%AFc_Ng%E1%BB%A5y" title="Bắc Ngụy">Bắc Ngụy</a>, tức <b><a href="/wiki/B%E1%BA%AFc_Ng%E1%BB%A5y_Hi%E1%BA%BFu_V%C5%A9_%C4%90%E1%BA%BF" title="Bắc Ngụy Hiếu Vũ Đế">Hiếu Vũ Đế</a></b>.</li>
+<li><a href="/wiki/1525" title="1525">1525</a> – <b><a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a></b> kết hôn với <a href="/wiki/Katharina_von_Bora" title="Katharina von Bora">Katharina von Bora</a> nhằm phản đối quy định độc thân của <a href="/wiki/Gi%C3%A1o_h%E1%BB%99i_C%C3%B4ng_gi%C3%A1o_R%C3%B4ma" title="Giáo hội Công giáo Rôma">Giáo hội Công giáo</a> đối với linh mục .</li>
+<li><a href="/wiki/1970" title="1970">1970</a> – "<b><a href="/wiki/The_Long_and_Winding_Road" title="The Long and Winding Road">The Long and Winding Road</a></b>" trở thành <a href="/wiki/Danh_s%C3%A1ch_%C4%91%C4%A9a_%C4%91%C6%A1n_qu%C3%A1n_qu%C3%A2n_(M%E1%BB%B9)" class="mw-disambig" title="Danh sách đĩa đơn quán quân (Mỹ)">đĩa đơn quán quân</a> thứ 20 và cuối cùng của ban nhạc <a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a> tại Hoa Kỳ.</li>
+<li><a href="/wiki/2000" title="2000">2000</a> – Tổng thống Hàn Quốc <b><a href="/wiki/Kim_Dae-jung" title="Kim Dae-jung">Kim Dae-jung</a></b> <i>(hình)</i> gặp lãnh đạo Triều Tiên <a href="/wiki/Kim_Ch%C3%ADnh_Nh%E1%BA%ADt" class="mw-redirect" title="Kim Chính Nhật">Kim Jong-il</a> tại thủ đô <a href="/wiki/B%C3%ACnh_Nh%C6%B0%E1%BB%A1ng" title="Bình Nhưỡng">Bình Nhưỡng</a> của Triều Tiên, khởi đầu hội nghị thượng đỉnh liên Triều đầu tiên.</li></ul>
+</div></td></tr>
+<tr>
+<td style="line-height: 1.2em; padding-right: 6px; font-size: 100%; text-align: right; padding-bottom: 6px;"><div class="noprint"><b><a href="/wiki/Wikipedia:Ng%C3%A0y_n%C3%A0y_n%C4%83m_x%C6%B0a" title="Wikipedia:Ngày này năm xưa">Lưu trữ</a></b> • <b><a href="/wiki/Wikipedia:Ng%C3%A0y_n%C3%A0y_n%C4%83m_x%C6%B0a/06/13" title="Wikipedia:Ngày này năm xưa/06/13">Cập nhật</a></b> • <b><a href="/wiki/Danh_s%C3%A1ch_ng%C3%A0y_k%E1%BB%B7_ni%E1%BB%87m_l%E1%BB%8Bch_s%E1%BB%AD" title="Danh sách ngày kỷ niệm lịch sử">Danh sách ngày kỷ niệm lịch sử</a></b></div>
+
+</td></tr>
+<tr>
+<th><div style="position: absolute; margin-top: -6px; margin-left: 4px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gnome-colors-applications-office.svg/44px-Gnome-colors-applications-office.svg.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gnome-colors-applications-office.svg/66px-Gnome-colors-applications-office.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gnome-colors-applications-office.svg/88px-Gnome-colors-applications-office.svg.png 2x" data-file-width="48" data-file-height="48" /></div><div style="margin: 0; background: #dbca7e; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #d08d4d; padding: 0;"><div style="margin-left: 50px;"><a href="/wiki/Wikipedia:Ch%E1%BB%A7_%C4%91%E1%BB%81" title="Wikipedia:Chủ đề"><span style="color: #000000;">Các lĩnh vực</span></a></div></div>
+</th></tr>
+<tr>
+<td style="color: #000000; font-size: 100%; padding: 6px;">
+<table style="background-color: #FFFFFF;">
+<tbody><tr>
+<td style="padding-top: 10px; width: 45px; vertical-align: top;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn" title="Thể loại:Khoa học tự nhiên"><img alt="Gnome-applications-science.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/35px-Gnome-applications-science.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/53px-Gnome-applications-science.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/70px-Gnome-applications-science.svg.png 2x" data-file-width="48" data-file-height="48" /></a>
+</td>
+<td style="padding-top: 8px;"><span style="font-size: 105%;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn" title="Thể loại:Khoa học tự nhiên"><b>Khoa học tự nhiên</b></a></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C4%90%E1%BB%8Ba_ch%E1%BA%A5t_h%E1%BB%8Dc" title="Thể loại:Địa chất học">Địa chất học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C4%90%E1%BB%8Ba_l%C3%BD_h%E1%BB%8Dc" title="Thể loại:Địa lý học">Địa lý học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:H%C3%B3a_h%E1%BB%8Dc" title="Thể loại:Hóa học">Hóa học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh" title="Thể loại:Khoa học máy tính">Khoa học máy tính</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Logic" title="Thể loại:Logic">Logic</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Sinh_h%E1%BB%8Dc" title="Thể loại:Sinh học">Sinh học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Thi%C3%AAn_v%C4%83n_h%E1%BB%8Dc" title="Thể loại:Thiên văn học">Thiên văn học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:To%C3%A1n_h%E1%BB%8Dc" title="Thể loại:Toán học">Toán học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc" title="Thể loại:Vật lý học">Vật lý học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Y_h%E1%BB%8Dc" title="Thể loại:Y học">Y học</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="padding-top: 10px; vertical-align: top;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_x%C3%A3_h%E1%BB%99i" title="Thể loại:Khoa học xã hội"><img alt="System-users.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/System-users.svg/35px-System-users.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/System-users.svg/53px-System-users.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/System-users.svg/70px-System-users.svg.png 2x" data-file-width="48" data-file-height="48" /></a>
+</td>
+<td style="border-top: 1px dotted #CCCCCC; padding-top: 8px;"><span style="font-size: 105%;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_x%C3%A3_h%E1%BB%99i" title="Thể loại:Khoa học xã hội"><b>Khoa học xã hội</b></a></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ch%C3%ADnh_tr%E1%BB%8B_h%E1%BB%8Dc" title="Thể loại:Chính trị học">Chính trị học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Gi%C3%A1o_d%E1%BB%A5c" title="Thể loại:Giáo dục">Giáo dục</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Kinh_t%E1%BA%BF_h%E1%BB%8Dc" title="Thể loại:Kinh tế học">Kinh tế học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:L%E1%BB%8Bch_s%E1%BB%AD" title="Thể loại:Lịch sử">Lịch sử</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Lu%E1%BA%ADt_ph%C3%A1p" title="Thể loại:Luật pháp">Luật pháp</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ng%C3%B4n_ng%E1%BB%AF_h%E1%BB%8Dc" title="Thể loại:Ngôn ngữ học">Ngôn ngữ học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Nh%C3%A2n_ch%E1%BB%A7ng_h%E1%BB%8Dc" title="Thể loại:Nhân chủng học">Nhân chủng học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:T%C3%A2m_l%C3%BD_h%E1%BB%8Dc" title="Thể loại:Tâm lý học">Tâm lý học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Th%E1%BA%A7n_h%E1%BB%8Dc" title="Thể loại:Thần học">Thần học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Tri%E1%BA%BFt_h%E1%BB%8Dc" title="Thể loại:Triết học">Triết học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:X%C3%A3_h%E1%BB%99i_h%E1%BB%8Dc" title="Thể loại:Xã hội học">Xã hội học</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="padding-top: 10px; vertical-align: top;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:K%E1%BB%B9_thu%E1%BA%ADt" title="Thể loại:Kỹ thuật"><img alt="Applications-system.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Applications-system.svg/35px-Applications-system.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Applications-system.svg/53px-Applications-system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Applications-system.svg/70px-Applications-system.svg.png 2x" data-file-width="48" data-file-height="48" /></a>
+</td>
+<td style="border-top: 1px dotted #CCCCCC; padding-top: 8px;"><span style="font-size: 105%;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:K%E1%BB%B9_thu%E1%BA%ADt" title="Thể loại:Kỹ thuật"><b>Kỹ thuật</b></a></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:C%C3%B4ng_nghi%E1%BB%87p" title="Thể loại:Công nghiệp">Công nghiệp</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:C%C6%A1_h%E1%BB%8Dc" title="Thể loại:Cơ học">Cơ học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C4%90i%E1%BB%87n_t%E1%BB%AD_h%E1%BB%8Dc" title="Thể loại:Điện tử học">Điện tử học</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Giao_th%C3%B4ng" title="Thể loại:Giao thông">Giao thông</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ki%E1%BA%BFn_tr%C3%BAc" title="Thể loại:Kiến trúc">Kiến trúc</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:N%C4%83ng_l%C6%B0%E1%BB%A3ng" title="Thể loại:Năng lượng">Năng lượng</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Robot" title="Thể loại:Robot">Người máy</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:N%C3%B4ng_nghi%E1%BB%87p" title="Thể loại:Nông nghiệp">Nông nghiệp</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Qu%C3%A2n_s%E1%BB%B1" title="Thể loại:Quân sự">Quân sự</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Y_t%E1%BA%BF" title="Thể loại:Y tế">Y tế</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td style="padding-top: 10px; vertical-align: top;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:V%C4%83n_h%C3%B3a" title="Thể loại:Văn hóa"><img alt="Emblem-earth.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-earth.svg/35px-Emblem-earth.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-earth.svg/53px-Emblem-earth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-earth.svg/70px-Emblem-earth.svg.png 2x" data-file-width="48" data-file-height="48" /></a>
+</td>
+<td style="border-top: 1px dotted #CCCCCC; padding-top: 8px;"><span style="font-size: 105%;"><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:V%C4%83n_h%C3%B3a" title="Thể loại:Văn hóa"><b>Văn hóa</b></a></span>
+<div class="hlist" style="font-size: 90%">
+<ul><li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C3%82m_nh%E1%BA%A1c" title="Thể loại:Âm nhạc">Âm nhạc</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ch%C3%ADnh_tr%E1%BB%8B" title="Thể loại:Chính trị">Chính trị</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Du_l%E1%BB%8Bch" title="Thể loại:Du lịch">Du lịch</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C4%90i%E1%BB%87n_%E1%BA%A3nh" title="Thể loại:Điện ảnh">Điện ảnh</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Gi%E1%BA%A3i_tr%C3%AD" title="Thể loại:Giải trí">Giải trí</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khi%C3%AAu_v%C5%A9" title="Thể loại:Khiêu vũ">Khiêu vũ</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ngh%E1%BB%87_thu%E1%BA%ADt" title="Thể loại:Nghệ thuật">Nghệ thuật</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Phong_t%E1%BB%A5c_t%E1%BA%ADp_qu%C3%A1n" title="Thể loại:Phong tục tập quán">Phong tục tập quán</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Th%E1%BA%A7n_tho%E1%BA%A1i" title="Thể loại:Thần thoại">Thần thoại</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Th%E1%BB%83_thao" title="Thể loại:Thể thao">Thể thao</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Th%E1%BB%9Di_trang" title="Thể loại:Thời trang">Thời trang</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:T%C3%B4n_gi%C3%A1o" title="Thể loại:Tôn giáo">Tôn giáo</a></li>
+<li><a href="/wiki/Th%E1%BB%83_lo%E1%BA%A1i:V%C4%83n_h%E1%BB%8Dc" title="Thể loại:Văn học">Văn học</a></li></ul>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table id="mp-lower" style="width: 100%; margin-top: 2px; background: none">
+<tbody><tr>
+<td style="border: 1px solid #d4d4d4; background: #ffffff; vertical-align: middle; color: #000000;">
+<table id="mp-bottom" style="width: 100%; padding: 2px; vertical-align: top; background: #ffffff">
+
+<tbody><tr>
+<th id="mp-sister-head"><div style="position: absolute; margin-top: -5px; margin-left: 5px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/37px-Wikimedia-logo.svg.png" decoding="async" width="37" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/56px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/74px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024" /></div><div style="margin: 0; background: #ccc1f3; font-family: inherit; font-size: 120%; text-align: left;font-weight: bold; border: 1px solid #7b68ee; padding: 0;"><div id="mp-sister-h2" style="margin-left: 46px;">Dự án liên quan</div></div>
+</th></tr>
+<tr>
+<td id="mp-sister" style="color: #000000; font-size: 100%; padding: 6px;">Wikipedia trực thuộc Quỹ Hỗ trợ <a href="/wiki/Wikimedia" class="mw-redirect" title="Wikimedia">Wikimedia</a>, một <a href="/wiki/T%E1%BB%95_ch%E1%BB%A9c_phi_l%E1%BB%A3i_nhu%E1%BA%ADn" title="Tổ chức phi lợi nhuận">tổ chức phi lợi nhuận</a> tại tiểu bang <a href="/wiki/California" title="California">California</a>, <a href="/wiki/Hoa_K%E1%BB%B3" title="Hoa Kỳ">Hoa Kỳ</a>, cho phép <a href="https://foundation.wikimedia.org/wiki/Deductibility_of_donations" class="extiw" title="wikimedia:Deductibility of donations">trừ thuế</a> những khoản <a href="https://foundation.wikimedia.org/wiki/Quy%C3%AAn_g%C3%B3p" class="extiw" title="wikimedia:Quyên góp">đóng góp</a>. Wikimedia cũng đồng thời điều hành vài dự án <a href="/wiki/Wiki" title="Wiki">wiki</a> khác.
+<div style="text-align: center;">
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wiktionary.org/wiki/Trang_Ch%C3%ADnh" title="Wiktionary"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/36px-Wiktionary_small.svg.png" decoding="async" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/54px-Wiktionary_small.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/72px-Wiktionary_small.svg.png 2x" data-file-width="350" data-file-height="350" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wiktionary.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="wikt:Trang Chính"><b>Wiktionary</b></a><br />Từ&#160;điển mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wikibooks.org/wiki/Trang_Ch%C3%ADnh" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/36px-Wikibooks-logo.svg.png" decoding="async" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/72px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wikibooks.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="b:Trang Chính"><b>Wikibooks</b></a><br />Tủ&#160;sách giáo&#160;khoa mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wikisource.org/wiki/Trang_Ch%C3%ADnh" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png" decoding="async" width="36" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/54px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/72px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wikisource.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="s:Trang Chính"><b>Wikisource</b></a><br />Văn&#160;thư lưu&#160;trữ mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wikiquote.org/wiki/Trang_Ch%C3%ADnh" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/36px-Wikiquote-logo.svg.png" decoding="async" width="36" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/54px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/72px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wikiquote.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="q:Trang Chính"><b>Wikiquote</b></a><br />Bộ sưu&#160;tập danh&#160;ngôn
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://species.wikimedia.org/wiki/Trang_Ch%C3%ADnh" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/36px-Wikispecies-logo.svg.png" decoding="async" width="36" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/54px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/72px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://species.wikimedia.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="species:Trang Chính"><b>Wikispecies</b></a><br />Danh&#160;mục các loài
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wikinews.org/wiki/Trang_Ch%C3%ADnh" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/58px-Wikinews-logo.svg.png" decoding="async" width="58" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/87px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/116px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wikinews.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="n:Trang Chính"><b>Wikinews</b> Beta</a><br />Nguồn tin&#160;tức mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://beta.wikiversity.org/wiki/Trang_Ch%C3%ADnh" title="Wikiversity"><img alt="Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/38px-Wikiversity-logo.svg.png" decoding="async" width="38" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/57px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/76px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://beta.wikiversity.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="betawikiversity:Trang Chính"><b>Wikiversity</b> Beta</a><br />Học&#160;liệu mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://vi.wikivoyage.org/wiki/Trang_Ch%C3%ADnh" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/36px-Wikivoyage-logo.svg.png" decoding="async" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/54px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/72px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://vi.wikivoyage.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="voy:Trang Chính"><b>Wikivoyage</b></a><br />Cẩm&#160;nang du&#160;lịch mở
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://www.wikidata.org/wiki/Wikidata:Trang_Ch%C3%ADnh" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/58px-Wikidata-logo.svg.png" decoding="async" width="58" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/87px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/116px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://www.wikidata.org/wiki/Wikidata:Trang_Ch%C3%ADnh" class="extiw" title="d:Wikidata:Trang Chính"><b>Wikidata</b></a><br />Cơ&#160;sở kiến&#160;thức chung
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://commons.wikimedia.org/wiki/Trang_Ch%C3%ADnh" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" decoding="async" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://commons.wikimedia.org/wiki/Trang_Ch%C3%ADnh" class="extiw" title="c:Trang Chính"><b>Commons</b></a><br />Kho tư&#160;liệu chung
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://meta.wikimedia.org/wiki/Trang_Ch%C3%ADnh" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/36px-Wikimedia_Community_Logo.svg.png" decoding="async" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/54px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/72px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://meta.wikimedia.org/wiki/Main_Page/vi" class="extiw" title="m:Main Page/vi"><b>Meta-Wiki</b></a><br />Cộng&#160;đồng Wikimedia
+</td></tr></tbody></table>
+<table style="display: inline-block; margin-top: 1.2em;">
+<tbody><tr>
+<td style="width: 80px; text-align: center;"><a href="https://www.mediawiki.org/wiki/MediaWiki/vi" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/58px-MediaWiki-notext.svg.png" decoding="async" width="58" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/87px-MediaWiki-notext.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/116px-MediaWiki-notext.svg.png 2x" data-file-width="685" data-file-height="530" /></a>
+</td>
+<td style="width: 180px; text-align: left;"><a href="https://www.mediawiki.org/wiki/MediaWiki/vi" class="extiw" title="mw:MediaWiki/vi"><b>MediaWiki</b></a><br />Phần&#160;mềm wiki
+</td></tr></tbody></table>
+</div>
+</td></tr></tbody></table>
+<table style="height: 50px; width: 100%; margin-top: 2px; background: none;">
+
+<tbody><tr>
+<td style="width: 100%; border-top: 1px dotted #cccccc; background: #FFFFFF;">
+<table style="width: 100%; vertical-align: middle; background: #FFFFFF; text-align: center; color: #000000;">
+
+<tbody><tr>
+<td><img alt="Mail-closed.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mail-closed.svg/32px-Mail-closed.svg.png" decoding="async" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mail-closed.svg/48px-Mail-closed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mail-closed.svg/64px-Mail-closed.svg.png 2x" data-file-width="48" data-file-height="48" />&#160;&#160;<a href="/wiki/Wikipedia:Li%C3%AAn_l%E1%BA%A1c" title="Wikipedia:Liên lạc">Liên lạc với Wikipedia</a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1316
+Cached time: 20200613070120
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.428 seconds
+Real time usage: 0.568 seconds
+Preprocessor visited node count: 1222/1000000
+Post‐expand include size: 55812/2097152 bytes
+Template argument size: 2171/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 666/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 12.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  378.738      1 -total
+ 65.00%  246.192      1 Bản_mẫu:Trang_Chính/Các_ngôn_ngữ
+ 62.38%  236.270     59 Bản_mẫu:Lang
+ 15.39%   58.278      1 Bản_mẫu:Trang_Chính/Tin_tức
+ 14.62%   55.372      1 Bản_mẫu:Tin_tức
+  8.23%   31.172      1 Bản_mẫu:Tin_tức/hình_ảnh
+  7.54%   28.574      1 Bản_mẫu:Hình_ảnh_trang_chính
+  6.76%   25.618      1 Bản_mẫu:Trang_Chính/Bài_viết
+  5.43%   20.552      1 Bản_mẫu:Tin_tức/Special-header
+  4.56%   17.289      1 Bản_mẫu:Smaller
+-->
+
+<!-- Saved in parser cache with key viwiki:pcache:idhash:2-0!canonical and timestamp 20200613070119 and revision id 61430766
+ -->
+</div><noscript><img src="//vi.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Lấy từ “<a dir="ltr" href="https://vi.wikipedia.org/w/index.php?title=Trang_Chính&amp;oldid=61430766">https://vi.wikipedia.org/w/index.php?title=Trang_Chính&amp;oldid=61430766</a>”</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Trình đơn chuyển hướng</h2>
+	<div id="mw-head">
+		<div id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Công cụ cá nhân</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Chưa đăng nhập</li><li id="pt-anontalk"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Th%E1%BA%A3o_lu%E1%BA%ADn_t%C3%B4i" title="Thảo luận với địa chỉ IP này [n]" accesskey="n">Thảo luận cho địa chỉ IP này</a></li><li id="pt-anoncontribs"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C3%B3ng_g%C3%B3p_c%E1%BB%A7a_t%C3%B4i" title="Danh sách các sửa đổi được thực hiện qua địa chỉ  IP này [y]" accesskey="y">Đóng góp</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%9F_t%C3%A0i_kho%E1%BA%A3n&amp;returnto=Trang+Ch%C3%ADnh" title="Khuyến khích bạn mở tài khoản và đăng nhập; tuy nhiên, không bắt buộc phải có tài khoản">Mở tài khoản</a></li><li id="pt-login"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp&amp;returnto=Trang+Ch%C3%ADnh" title="Đăng nhập sẽ có lợi hơn, tuy nhiên không bắt buộc. [o]" accesskey="o">Đăng nhập</a></li></ul>
+		
+	</div>
+</div>
+
+
+		<div id="left-navigation">
+			<div id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Không gian tên</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Trang_Ch%C3%ADnh" title="Xem bài viết [c]" accesskey="c">Trang Chính</a></li><li id="ca-talk"><a href="/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn:Trang_Ch%C3%ADnh" rel="discussion" title="Thảo luận về trang này [t]" accesskey="t">Thảo luận</a></li></ul>
+		
+	</div>
+</div>
+
+
+			<div id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" 
+	 >
+	<input type="checkbox" class="vectorMenuCheckbox vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Biến thể</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</div>
+
+
+		</div>
+		<div id="right-navigation">
+			<div id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" 
+	 >
+	<h3 id="p-views-label">
+		<span>Giao diện</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Trang_Ch%C3%ADnh">Đọc</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Trang_Ch%C3%ADnh&amp;action=edit" title="Trang này được khóa. Bạn có thể xem mã nguồn. [e]" accesskey="e">Xem mã nguồn</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Trang_Ch%C3%ADnh&amp;action=history" title="Các phiên bản cũ của trang này [h]" accesskey="h">Xem lịch sử</a></li></ul>
+		
+	</div>
+</div>
+
+
+			<div id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" 
+	 >
+	<input type="checkbox" class="vectorMenuCheckbox vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Khác</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</div>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Tìm kiếm</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Tìm kiếm Wikipedia" title="Tìm kiếm Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Đặc_biệt:Tìm_kiếm">
+			<input type="submit" name="fulltext" value="Tìm kiếm" title="Tìm trang có nội dung này" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Xem" title="Xem trang khớp với tên này nếu có" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Trang Chính" class="mw-wiki-logo" href="/wiki/Trang_Ch%C3%ADnh"></a>
+	</div>
+	<div id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Xem nhanh</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Trang_Ch%C3%ADnh" title="Xem trang chính [z]" accesskey="z">Trang Chính</a></li><li id="n-wikipedia-featuredcontent"><a href="/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc">Bài viết chọn lọc</a></li><li id="n-currentevents"><a href="/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:Th%E1%BB%9Di_s%E1%BB%B1" title="Các trang có liên quan đến tin tức">Tin tức</a></li><li id="n-randompage"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Ng%E1%BA%ABu_nhi%C3%AAn" title="Xem trang ngẫu nhiên [x]" accesskey="x">Bài viết ngẫu nhiên</a></li><li id="n-recentchanges"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_g%E1%BA%A7n_%C4%91%C3%A2y" title="Danh sách thay đổi gần đây trong wiki [r]" accesskey="r">Thay đổi gần đây</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:B%C3%A1o_l%E1%BB%97i_b%C3%A0i_vi%E1%BA%BFt">Phản hồi lỗi</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_vi.wikipedia.org&amp;uselang=vi" title="Quyên góp xây dựng bách khoa toàn thư mở">Quyên góp</a></li></ul>
+		
+	</div>
+</div>
+
+
+	<div id="p-wikipedia-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikipedia-interaction-label" 
+	 >
+	<h3 id="p-wikipedia-interaction-label">
+		<span>Tương tác</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-wikipedia-helppage"><a href="/wiki/Wikipedia:S%C3%A1ch_h%C6%B0%E1%BB%9Bng_d%E1%BA%ABn">Hướng dẫn</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u">Giới thiệu Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:C%E1%BB%99ng_%C4%91%E1%BB%93ng" title="Giới thiệu dự án, cách sử dụng và tìm kiếm thông tin ở đây">Cộng đồng</a></li><li id="n-wikipedia-villagepump"><a href="/wiki/Wikipedia:Th%E1%BA%A3o_lu%E1%BA%ADn">Thảo luận chung</a></li><li id="n-wikipedia-helpdesk"><a href="/wiki/Wikipedia:Gi%C3%BAp_s%E1%BB%AD_d%E1%BB%A5ng_Wikipedia">Giúp sử dụng</a></li><li id="n-contactpage"><a href="//vi.wikipedia.org/wiki/Wikipedia:Liên_lạc">Liên lạc</a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Công cụ</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Li%C3%AAn_k%E1%BA%BFt_%C4%91%E1%BA%BFn_%C4%91%C3%A2y/Trang_Ch%C3%ADnh" title="Các trang liên kết đến đây [j]" accesskey="j">Các liên kết đến đây</a></li><li id="t-recentchangeslinked"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_li%C3%AAn_quan/Trang_Ch%C3%ADnh" rel="nofollow" title="Thay đổi gần đây của các trang liên kết đến đây [k]" accesskey="k">Thay đổi liên quan</a></li><li id="t-specialpages"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Trang_%C4%91%E1%BA%B7c_bi%E1%BB%87t" title="Một danh sách chứa tất cả trang đặc biệt [q]" accesskey="q">Trang đặc biệt</a></li><li id="t-permalink"><a href="/w/index.php?title=Trang_Ch%C3%ADnh&amp;oldid=61430766" title="Liên kết thường trực đến phiên bản này của trang">Liên kết thường trực</a></li><li id="t-info"><a href="/w/index.php?title=Trang_Ch%C3%ADnh&amp;action=info" title="Thêm chi tiết về trang này">Thông tin trang</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Liên kết đến khoản mục kết nối trong kho dữ liệu [g]" accesskey="g">Khoản mục Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:Tr%C3%ADch_d%E1%BA%ABn&amp;page=Trang_Ch%C3%ADnh&amp;id=61430766&amp;wpFormIdentifier=titleform" title="Hướng dẫn cách trích dẫn trang này">Trích dẫn trang này</a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Ngôn ngữ khác</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="Tiếng Ả Rập" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="Tiếng Indonesia" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="Tiếng Mã Lai" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/" title="Tiếng Bosnia" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="Tiếng Bulgaria" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="Tiếng Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="Tiếng Séc" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="Tiếng Đan Mạch" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="Tiếng Đức" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="Tiếng Estonia" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="Tiếng Hy Lạp" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="Tiếng Anh" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="Tiếng Tây Ban Nha" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="Tiếng Quốc Tế Ngữ" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="Tiếng Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="Tiếng Ba Tư" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="Tiếng Pháp" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="Tiếng Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="Tiếng Hàn" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="Tiếng Croatia" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="Tiếng Italy" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="Tiếng Do Thái" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="Tiếng Georgia" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/" title="Tiếng Latvia" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="Tiếng Litva" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="Tiếng Hungary" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="Tiếng Hà Lan" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="Tiếng Nhật" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="Tiếng Na Uy (Bokmål)" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="Tiếng Na Uy (Nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="Tiếng Ba Lan" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="Tiếng Bồ Đào Nha" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="Tiếng Romania" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="Tiếng Nga" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="Tiếng Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="Tiếng Slovenia" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="Tiếng Serbia" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="Tiếng Serbo-Croatia" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="Tiếng Phần Lan" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="Tiếng Thụy Điển" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="Tiếng Thái" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="Tiếng Thổ Nhĩ Kỳ" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="Tiếng Ukraina" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="Tiếng Trung" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>Tại dự án khác</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://vi.wikibooks.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikimania"><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">Wikimania</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://vi.wikiquote.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://vi.wikisource.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://vi.wikivoyage.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi">Wikivoyage</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://vi.wiktionary.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi">Wiktionary</a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>In/xuất ra</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:S%C3%A1ch&amp;bookcmd=book_creator&amp;referer=Trang+Ch%C3%ADnh">Tạo một quyển sách</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:ElectronPdf&amp;page=Trang+Ch%C3%ADnh&amp;action=show-download-screen">Tải về dưới dạng PDF</a></li><li id="t-print"><a href="/w/index.php?title=Trang_Ch%C3%ADnh&amp;printable=yes" title="Bản để in ra của trang [p]" accesskey="p">Bản để in ra</a></li></ul>
+		
+	</div>
+</div>
+
+
+</div>
+
+</div>
+
+<div id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> Trang này được sửa đổi lần cuối vào ngày 9 tháng 5 năm 2020 lúc 17:42.</li>
+		<li id="footer-info-copyright">Văn bản được phát hành theo <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.vi">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>; có thể áp dụng điều khoản bổ sung. Với việc sử dụng trang web này, bạn chấp nhận <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/vi?uselang=vi">Điều khoản Sử dụng</a> và <a href="//foundation.wikimedia.org/wiki/Privacy_policy?uselang=vi">Quy định quyền riêng tư</a>.<br />
+Wikipedia&reg; là thương hiệu đã đăng ký của <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, một tổ chức phi lợi nhuận.<br /></li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Quy định quyền riêng tư</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u" title="Wikipedia:Giới thiệu">Giới thiệu Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Ph%E1%BB%A7_nh%E1%BA%ADn_chung" title="Wikipedia:Phủ nhận chung">Lời phủ nhận</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Nhà phát triển</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/vi.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Tuyên bố về cookie</a></li>
+		<li id="footer-places-mobileview"><a href="//vi.m.wikipedia.org/w/index.php?title=Trang_Ch%C3%ADnh&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Phiên bản di động</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.568","ppvisitednodes":{"value":1222,"limit":1000000},"postexpandincludesize":{"value":55812,"limit":2097152},"templateargumentsize":{"value":2171,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":666,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  378.738      1 -total"," 65.00%  246.192      1 Bản_mẫu:Trang_Chính/Các_ngôn_ngữ"," 62.38%  236.270     59 Bản_mẫu:Lang"," 15.39%   58.278      1 Bản_mẫu:Trang_Chính/Tin_tức"," 14.62%   55.372      1 Bản_mẫu:Tin_tức","  8.23%   31.172      1 Bản_mẫu:Tin_tức/hình_ảnh","  7.54%   28.574      1 Bản_mẫu:Hình_ảnh_trang_chính","  6.76%   25.618      1 Bản_mẫu:Trang_Chính/Bài_viết","  5.43%   20.552      1 Bản_mẫu:Tin_tức/Special-header","  4.56%   17.289      1 Bản_mẫu:Smaller"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":13332062,"limit":52428800}},"cachereport":{"origin":"mw1316","timestamp":"20200613070120","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Trang Ch\u00ednh","url":"https:\/\/vi.wikipedia.org\/wiki\/Trang_Ch%C3%ADnh","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Nh\u1eefng ng\u01b0\u1eddi \u0111\u00f3ng g\u00f3p v\u00e0o c\u00e1c d\u1ef1 \u00e1n Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-26T04:08:05Z","dateModified":"2020-05-09T17:42:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8b\/Wikipedia-logo-blank.svg","headline":"trang ch\u00ednh c\u1ee7a c\u00e1c d\u1ef1 \u00e1n Wikimedia"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1325"});});</script></body></html>
