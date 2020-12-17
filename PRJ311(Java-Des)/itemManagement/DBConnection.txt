@@ -1,0 +1,4 @@
+jdbc driver name== com.microsoft.sqlserver.jdbc.SQLServerDriver
+url== jdbc:sqlserver://localhost:6054;databaseName=ItemManagement
+username== sa
+password== danh123

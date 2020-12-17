@@ -1,0 +1,8 @@
+ArmorID, Classification, TimeOfCreate, Defense
+SA140678, abcd, 2020-09-20, 50, 
+SB140235, qwert, 2020-09-22, 70, 
+SE1267, abc, 2020-09-27, 10, 
+SE130253, yuiop, 2020-09-22, 15, 
+SE140111, Nguyen Lam Cong Danh, 2020-09-20, 200, 
+SE140655, abc, 2020-10-20, 100, 
+SE1426, abc, 2020-09-27, 10, 
