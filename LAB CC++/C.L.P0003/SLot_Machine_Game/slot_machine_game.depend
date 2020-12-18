@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583076832 source:d:\danh\lab c\ngocttm4\lab101_2 - c basic\c.l.p0003\slot_machine_game\wheel.cpp
+	"wheel.h"
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
+1583075041 d:\danh\lab c\ngocttm4\lab101_2 - c basic\c.l.p0003\slot_machine_game\wheel.h
+
