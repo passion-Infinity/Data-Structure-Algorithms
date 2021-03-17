@@ -1,0 +1,7 @@
+D:\source\repos\ASSM_1\ASSM_1\obj\Debug\ASSM_1.csprojAssemblyReference.cache
+D:\source\repos\ASSM_1\ASSM_1\obj\Debug\ASSM_1.csproj.CoreCompileInputs.cache
+D:\source\repos\ASSM_1\ASSM_1\bin\Debug\ASSM_1.exe.config
+D:\source\repos\ASSM_1\ASSM_1\bin\Debug\ASSM_1.exe
+D:\source\repos\ASSM_1\ASSM_1\bin\Debug\ASSM_1.pdb
+D:\source\repos\ASSM_1\ASSM_1\obj\Debug\ASSM_1.exe
+D:\source\repos\ASSM_1\ASSM_1\obj\Debug\ASSM_1.pdb

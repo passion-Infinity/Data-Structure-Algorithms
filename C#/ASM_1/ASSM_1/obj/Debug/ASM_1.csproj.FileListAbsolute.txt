@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.exe.config
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.exe
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.pdb
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\obj\Debug\ASM_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\obj\Debug\ASM_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\obj\Debug\ASSM_1.exe
+C:\Users\User\Desktop\ASM\ASM\ASM_1\ASSM_1\obj\Debug\ASSM_1.pdb
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.exe.config
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.exe
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\bin\Debug\ASSM_1.pdb
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\obj\Debug\ASM_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\obj\Debug\ASM_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\obj\Debug\ASSM_1.exe
+C:\Users\User\Desktop\ASM\ASM_1\ASSM_1\obj\Debug\ASSM_1.pdb

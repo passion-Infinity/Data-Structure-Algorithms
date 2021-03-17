@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\User\OneDrive\Desktop\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.pdb
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\User\OneDrive\Desktop\C#\ASS3\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.pdb
