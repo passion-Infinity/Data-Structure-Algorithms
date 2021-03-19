@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\bin\Debug\SingerAssemblies.dll
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\bin\Debug\SingerAssemblies.pdb
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\obj\Debug\SingerAssemblies.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\obj\Debug\SingerAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\obj\Debug\SingerAssemblies.dll
+C:\Users\User\OneDrive\Desktop\SE140655_NguyenLamCongDanh_PE04\SE140655_NguyenLamCongDanh\SingerAssemblies\obj\Debug\SingerAssemblies.pdb

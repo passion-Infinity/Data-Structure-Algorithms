@@ -24,3 +24,16 @@ C:\Users\User\OneDrive\Desktop\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.c
 C:\Users\User\OneDrive\Desktop\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.exe
 C:\Users\User\OneDrive\Desktop\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Github\C#\ASS4\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Github\C#\ASS4\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Github\C#\ASS4\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.frmChangeAccount.resources
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.frmLogin.resources
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.frmMain.resources
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.frmReportBook.resources
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Github\C#\ASS4\BookStore\BookStore\obj\Debug\BookStore.pdb

@@ -12,7 +12,8 @@ namespace BookStore.DB
     {
         public static SqlConnection GetConnection()
         {
-            string conStr = @"Data Source=SE140655\SQLEXPRESS;Initial Catalog=BookStore;Persist Security Info=True;User ID=sa; Password= danh123";
+            //string conStr = @"Data Source=SE140655\SQLEXPRESS;Initial Catalog=BookStore;Persist Security Info=True;User ID=sa; Password= danh123";
+            string conStr = @"server=(local);databse=BookStore;uid=sa;pwd= danh123";
             SqlConnection conn = new SqlConnection(conStr);
             return conn;
         }
