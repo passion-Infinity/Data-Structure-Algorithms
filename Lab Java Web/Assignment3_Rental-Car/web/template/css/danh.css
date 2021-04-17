@@ -1,0 +1,70 @@
+.header {
+    padding: 15px;
+}
+
+.logo {
+    font-size: 40px;
+}
+
+.color-red {
+    color: red;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.danh-paging-margin-top {
+    margin-top: 15px;
+}
+
+danh-group {
+    width: 40%;
+}
+
+.danh-form {
+    padding: 8px 12px;
+    width: 30%;
+    border: grey 1px solid;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.danh-form:hover {
+    border: 1px cornflowerblue solid;
+}
+
+.danh-form-select {
+    padding: 8px 12px;
+    width: 20%;
+    border: grey 1px solid;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.danh-form-select:hover {
+    border: 1px cornflowerblue solid;
+}
+
+
+.danh-table-tr-th {
+    text-align: center; 
+    color: white; 
+    font-weight: 800; 
+    font-size: 16px;
+}
+
+.ct-left {
+    display: inline-block;
+}
+.ct-right {
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+

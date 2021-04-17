@@ -1,0 +1,47 @@
+.question:hover {
+    color: blue;
+}
+
+.question:active {
+    color: red;
+}
+
+.question-content, .who, .date, .unsee {
+    display: inline-block;
+}
+
+.question-title {
+    height: 5vh; 
+    line-height: 5vh;
+}
+
+.question-content {
+    width: 33%;
+}
+
+.who {
+    width: 12%;
+}
+
+.date {
+    width: 10%;
+}
+
+.unsee {
+    width: 5%;
+}
+
+.btn-paging {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    color: darkslategrey;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+
+.form-startQuiz {
+    display: inline-block; 
+    margin: 0 auto; 
+    width: 90%;
+}
